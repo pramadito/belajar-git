@@ -1,0 +1,1 @@
+console.log("Ini adalah file untuk latihan exercise 2 day 3");
